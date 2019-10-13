@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="spinner_array">
+        <item>Aeronautics</item>
+        <item>Automobile</item>
+        <item>Chemical</item>
+        <item>Computer Science</item>
+        <item>Electrical</item>
+        <item>Meachanical</item>
+        <item>Others</item>
+    </string-array>
+
+
+
+</resources>

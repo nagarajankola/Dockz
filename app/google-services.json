@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "21661082599",
+    "firebase_url": "https://dockz-fb89e.firebaseio.com",
+    "project_id": "dockz-fb89e",
+    "storage_bucket": "dockz-fb89e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21661082599:android:7e15ed153c2132ea0e1342",
+        "android_client_info": {
+          "package_name": "com.inferno.dockz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21661082599-htrteo5v3rjfqb1utvnmnfh5q03g6gm0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inferno.dockz",
+            "certificate_hash": "18f988741266465d5f01e8b4b0b6c708d07b73cd"
+          }
+        },
+        {
+          "client_id": "21661082599-9tu99g22gai39tq6claogjigrg6pv65j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFxywTuwSPQCoZgTPAXx0Yh8BfS2xQqlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21661082599-q0cuk9jqdgedeo9qudiprr3jvj0l6kor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
